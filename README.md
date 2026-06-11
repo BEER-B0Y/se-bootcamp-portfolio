@@ -7,10 +7,6 @@
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/000?v=4" alt="profile" width="120" height="120"/>
 </p>
-
-สวัสดีครับ ผมชื่อ Tawan (Sun) — นักศึกษาสาขา Software Engineering ที่กำลังสะสมผลงานจากการเข้า Bootcamp นี้
-
-
 ---
 
 ## 👋 About Me
@@ -104,9 +100,8 @@
 - วันนี้ได้ใช้ AI ใน เรื่องการ Gen Infographic นามบัตร
 
 ### Prompt ที่ฉันใช้
-```สร้าง infographic แนวนอนโดยใช้ข้อมูลตามนนี้ นาย ตะวัน ตาลพิลา เป็นนักศึกษาRmutl สาขาวิศวกรรมซอฟต์จากHogward มีความสนใจเรื่อง Ai engineering , data structure , infrastructure ai company , nutraul link , network connecter มีความสามารถในการใช้ภาษาCoding ต่างๆ(ช่วยใส่รายละเอียดให้ด้วย,แก้คำผิดให้ด้วย)
+สร้าง infographic แนวนอนโดยใช้ข้อมูลตามนนี้ นาย ตะวัน ตาลพิลา เป็นนักศึกษาRmutl สาขาวิศวกรรมซอฟต์จากHogward มีความสนใจเรื่อง Ai engineering , data structure , infrastructure ai company , nutraul link , network connecter มีความสามารถในการใช้ภาษาCoding ต่างๆ (ช่วยใส่รายละเอียดให้ด้วย,แก้คำผิดให้ด้วย)
 
-```
 
 ### ฉันตรวจสอบคำตอบของ AI อย่างไร
 - การอ่านเเละตรวจสอบข้อเท็จจริง
@@ -155,5 +150,5 @@
 ## 🔗 Repository Link
 
 ```text
-https://github.com/USERNAME/se-bootcamp-portfolio
+https://github.com/BEER-B0Y/se-bootcamp-portfolio
 ```
