@@ -16,8 +16,8 @@
 | Name | Tawan Tanpilar |
 | Nickname | Sun 🌤 |
 | Program | Software Engineering, RMUTL |
-| Background | ผมจบมาจาก Polytechnic Technical College |
-| Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
+| Background | ผมจบมาจาก วิทยาลัยโปลิเทคนิคลานนา |
+| Interest | Full Stack Web Dev / Ai infastrcture |
 | Goal | เรียนรู้และพัฒนาโปรเจกต์จริง |
 
 ---
